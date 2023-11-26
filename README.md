@@ -1,10 +1,10 @@
--嗨，我是yoksidk
--我对你感兴趣。
--我目前正在学习汉语。
--我想和你合作……
--怎么找到我……
+有
+GIF、JPEG、JPG、MOV、MP4、PNG、SVG或WEBM
+此文件为空。
+再试一次
+使用一个不空的文件。
 
 <!---
-yoksidk/yoksidk是一个特殊的存储库，因为它的'README.md（这个文件）出现在您的GitHub配置文件中。
-您可以单击预览链接查看更改。
+yoksidk/yoksidk是一个特殊的存储库，我是你的自荐书
+abc def ghi jkl mno pqr stu
 --->
